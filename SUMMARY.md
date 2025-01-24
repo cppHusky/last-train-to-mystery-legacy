@@ -15,3 +15,11 @@
 ## 2024
 
 * [Fishing](2024/fishing.md)
+* [Capitalist](2024/capitalist.md)
+* [Red](2024/red.md)
+* [Calculator](2024/calculator.md)
+* [Introduction](2024/introduction.md)
+* [Palindrome](2024/palindrome.md)
+* [Art](2024/art.md)
+
+## 2025
