@@ -4,9 +4,7 @@ description: www.cpphusky.xyz/Blank
 
 # Blank
 
-```
-Blck frtlzr wll vltlz whn t s gry; gry frtlzr wll vltlz whn t s blck.
-```
+> Blck frtlzr wll vltlz whn t s gry; gry frtlzr wll vltlz whn t s blck.
 
 ## 解析
 

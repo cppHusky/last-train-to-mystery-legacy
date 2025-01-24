@@ -4,10 +4,8 @@ description: puzzle.cpphusky.xyz/fishing
 
 # Fishing
 
-```
-我们怀疑你是人类，请完成机器人验证。
-```
-![captcha](./attachment/captcha.png)
+> 我们怀疑你是人类，请完成机器人验证。
+> ![captcha](./attachment/captcha.png)
 
 ## 解析
 

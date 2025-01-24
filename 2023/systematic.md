@@ -4,7 +4,7 @@ description: www.cpphusky.xyz/Systematic
 
 # Systematic
 
-> 本题题面遗失了，正在尝试找回
+~~本题题面遗失了，正在尝试找回~~
 
 ## 解析
 

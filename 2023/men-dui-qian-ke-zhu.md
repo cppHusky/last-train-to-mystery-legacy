@@ -4,6 +4,8 @@ description: www.cpphusky.xyz/MenDuiQianKeZhu
 
 # 门对千棵竹
 
+>  门对千棵竹
+
 ## 解析
 
 「门对千棵竹」是一则对联，出自相声《解学士》，下联为「家藏万卷书」。

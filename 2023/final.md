@@ -4,9 +4,7 @@ description: www.cpphusky.xyz/Final
 
 # Final
 
-```
-本关的答案要在 305856724 中寻找。
-```
+> 本关的答案要在 305856724 中寻找。
 
 ## 解析
 
