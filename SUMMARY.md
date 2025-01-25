@@ -4,7 +4,7 @@
 
 ## 2023
 
-* [总览](2023/README.md)
+* [2023 总览](2023/README.md)
 * [门对千棵竹](2023/men-dui-qian-ke-zhu.md)
 * [家藏万卷书](2023/jia-cang-wan-juan-shu.md)
 * [Systematic](2023/systematic.md)
@@ -15,7 +15,7 @@
 
 ## 2024
 
-* [总览](2024/README.md)
+* [2024 总览](2024/README.md)
 * [Fishing](2024/fishing.md)
 * [Capitalist](2024/capitalist.md)
 * [Red](2024/red.md)
@@ -26,4 +26,4 @@
 
 ## 2025
 
-* [总览](2025/README.md)
+* [2025 总览](2025/README.md)

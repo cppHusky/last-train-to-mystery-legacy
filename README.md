@@ -9,6 +9,7 @@ description: 「解谜末班车」自2023年开始举办，每年一次，定在
 <table data-view="cards">
 <thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead>
 <tbody>
-<tr><td></td><td></td><td>2023年 答案</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td>2024年 答案</td><td><a href="broken-reference">Broken link</a></td></tr>
+<tr><td></td><td></td><td>2023年 答案</td><td><a href="https://cpphusky.gitbook.io/last-train-to-mystery/2023/2023">2023 总览</a></td></tr>
+<tr><td></td><td></td><td>2024年 答案</td><td><a href="https://cpphusky.gitbook.io/last-train-to-mystery/2024/2024">2024 总览</a></td></tr>
 </tbody>
 </table>
