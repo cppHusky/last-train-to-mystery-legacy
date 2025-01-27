@@ -27,3 +27,7 @@
 ## 2025
 
 * [2025 总览](2025/README.md)
+* [CAPTCHA](2025/captcha/post.md)
+* [BesiegeWithoutAssault](2025/besiege-without-assault/post.md)
+* [CountLightsOut](2025/count-lights-out/post.md)
+* [EncryptedDialog](2025/encrypted-dialog/post.md)
