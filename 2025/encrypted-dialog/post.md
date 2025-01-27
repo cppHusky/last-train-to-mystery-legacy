@@ -2,6 +2,8 @@
 description: cpphusky.xyz/game/encrypteddialog
 ---
 
+# EncryptedDialog
+
 > 本题是 AI 交互题。你只能用英语来和它交流（更准确地说，只能使用 ASCII 可打印字符，如果 AI 回复了非 ASCII 可打印字符，会使用 □ 来代替）。
 >
 > 你向 AI 输入的内容将会被一个「输入码表」转换成密文，再发送给 AI 作为输入；AI 的输出又会被一个「输出码表」转换成密文，再显示给你。
