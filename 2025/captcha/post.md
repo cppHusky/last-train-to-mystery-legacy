@@ -51,19 +51,19 @@ description: cpphusky.xyz/captcha
 
 这道题的坑点在于，除了人们熟知的太阳系八大行星以外，还有“系外行星”这回事。
 
--[ ] 太阳当然是恒星。
--[ ] 月球当然是卫星。
--[x] 火星当然是行星。
--[ ] 谷神星可能要查一下。其实它只是太阳系内的一个“小行星”。（“小行星”和“行星”是完全不同的）
--[ ] 比邻星是离太阳系最近的**恒星**。
--[ ] 冥王星在过去被人们普遍认为是行星，但早在 2006 年它就被划为**矮行星**了。（矮行星也不是行星）
--[ ] 木卫一，顾名思义，就是木星的卫星。
--[ ] 墨提斯是木卫十六的别名，当然也是卫星。
--[ ] 河鼓二、参宿五、瑶光、开阳，这些古人就能看得见的系外天体当然不可能是（不发光的）行星，一般来说都是恒星。至于系外行星，那都是 19 世纪之后才开始发现的。
--[ ] 飞马座 51 是飞马座的一个恒星。
--[x] 飞马座 51b 是属于飞马座 51 的天体，它是不是行星呢？查一下会发现它确实是一个系外行星。
--[ ] 15760 Albion 是一个介于海王星和冥王星之间的海王星外天体。（既然它是在太阳系内的，那我们直接照八大行星的名单排除就行了）
--[ ] Beta Persei 也就是英仙座β，是一个由恒星构成的多星系统。
+- [ ] 太阳当然是恒星。
+- [ ] 月球当然是卫星。
+- [x] 火星当然是行星。
+- [ ] 谷神星可能要查一下。其实它只是太阳系内的一个“小行星”。（“小行星”和“行星”是完全不同的）
+- [ ] 比邻星是离太阳系最近的**恒星**。
+- [ ] 冥王星在过去被人们普遍认为是行星，但早在 2006 年它就被划为**矮行星**了。（矮行星也不是行星）
+- [ ] 木卫一，顾名思义，就是木星的卫星。
+- [ ] 墨提斯是木卫十六的别名，当然也是卫星。
+- [ ] 河鼓二、参宿五、瑶光、开阳，这些古人就能看得见的系外天体当然不可能是（不发光的）行星，一般来说都是恒星。至于系外行星，那都是 19 世纪之后才开始发现的。
+- [ ] 飞马座 51 是飞马座的一个恒星。
+- [x] 飞马座 51b 是属于飞马座 51 的天体，它是不是行星呢？查一下会发现它确实是一个系外行星。
+- [ ] 15760 Albion 是一个介于海王星和冥王星之间的海王星外天体。（既然它是在太阳系内的，那我们直接照八大行星的名单排除就行了）
+- [ ] Beta Persei 也就是英仙座β，是一个由恒星构成的多星系统。
 
 ## unit
 
@@ -71,23 +71,23 @@ description: cpphusky.xyz/captcha
 >
 > ![](./assets/unit.png)
 
-这题其实也比较坑，一个是微观度量，一个是天文度量，还有一个很年轻的新单位，网上资料不多。
+这题也算是有点坑，一个是微观度量，一个是天文度量，还有一个很年轻的新单位，网上资料不多。
 
--[ ] Bq（贝克勒）是放射性活度单位。
--[ ] dB（分贝）是比例单位，在声学、电子学等领域都有涉及。
--[ ] eV（电子伏特）是能量单位。
--[ ] Np（奈培）是和 dB 相似的比例单位。
--[ ] mmHg（毫米汞柱）是压强单位。
--[x] Å（埃斯特朗）是长度单位，一般用于微观长度的计量，$$1Å=10^{-10}\mathrm m$$。
--[ ] kn（节）是速度单位，一般用于航海、航空。
--[ ] ha（公顷）是面积单位。
--[ ] rad 有两种可能的解读，一说是弧度单位，一说是辐射吸收剂量单位。但不管怎么说，都不是长度单位。
--[ ] Wb（韦伯）是磁通量单位。
--[ ] ◦（度）是角度单位。
--[ ] sr（球面度）是立体角的单位。
--[x] au（天文单位）是长度单位。起初人们把日地之间的距离定义为 1au。
--[ ] Hz（赫兹）是频率单位。
--[x] Qm（昆米）是长度单位。这里的 Q 表示 $$10^30$$，是 2022 年启用的新词头。
+- [ ] Bq（贝克勒）是放射性活度单位。
+- [ ] dB（分贝）是比例单位，在声学、电子学等领域都有涉及。
+- [ ] eV（电子伏特）是能量单位。
+- [ ] Np（奈培）是和 dB 相似的比例单位。
+- [ ] mmHg（毫米汞柱）是压强单位。
+- [x] Å（埃斯特朗）是长度单位，一般用于微观长度的计量，$$1Å=10^{-10}\mathrm m$$。
+- [ ] kn（节）是速度单位，一般用于航海、航空。
+- [ ] ha（公顷）是面积单位。
+- [ ] rad 有两种可能的解读，一说是弧度单位，一说是辐射吸收剂量单位。但不管怎么说，都不是长度单位。
+- [ ] Wb（韦伯）是磁通量单位。
+- [ ] ◦（度）是角度单位。
+- [ ] sr（球面度）是立体角的单位。
+- [x] au（天文单位）是长度单位。起初人们把日地之间的距离定义为 1au。
+- [ ] Hz（赫兹）是频率单位。
+- [x] Qm（昆米）是长度单位。这里的 Q 表示 $$10^30$$，是 2022 年启用的新词头。
 
 ## tone
 
@@ -107,24 +107,24 @@ description: cpphusky.xyz/captcha
 >
 > ![](./assets/math.png)
 
-这道题没什么坑。
+这道题没什么坑，当然前提是你得知道它们都是什么。
 
--[x] $$\pi$$ 是圆周率，约为 3.14。
--[ ] $$\phi$$ 是黄金分割比的比值，约为 1.618。
--[ ] $$\mathrm i^{\mathrm i}=\mathrm e^{\mathrm i\ln\mathrm i}=\mathrm e^{\mathrm i\cdot\frac{\pi\mathrm i}{2}=\mathrm e^{-\frac\pi2}$$，显然它小于 1，不用再算了。
--[x] $$\mathrm e$$ 是自然对数的底，约为 2.718。
--[ ] $$\gamma$$ 是欧拉常数，约为 0.577。
--[x] $$\varpi$$ 是 [Lemniscate 常数](https://en.wikipedia.org/wiki/Lemniscate_constant)，约为 2.622。
--[ ] $$\sqrt2$$ 约为 1.414。
--[ ] $$\ln2$$ 约为 0.693。
--[ ] $$\zeta(3)$$ 用到了黎曼 zeta 函数，它表示 $$\sum_{n=1}^\infty\frac1{n^3}$$，约为1.202。
--[ ] $$\Gamma(1)$$ 用到了伽马函数，它表示 $$\int_0^\infty\mathrm e^{-t}\,\mathrm dt$$，等于 1。
--[ ] $$\operatorname{li}(1)$$ 用到了对数积分函数，它表示 $$\int_0^1\frac{\mathrm dt}{\ln t}$$，这个结果为负无穷。
--[ ] $$\operatorname{erf}(1)$$ 用到了误差函数，它表示 $$\frac1{\sqrt\pi}\int_{-1}^1\mathrm e^{-t^2}\mathrm dt$$，约为 0.843。
--[ ] [Catalan 常数](https://en.wikipedia.org/wiki/Catalan%27s_constant)的值约为 0.916。
--[ ] [Artin 常数](https://en.wikipedia.org/wiki/Artin%27s_conjecture_on_primitive_roots#Formulation)的值约为 0.374。
--[ ] [Claisher 常数](https://en.wikipedia.org/wiki/Glaisher%E2%80%93Kinkelin_constant)的值约为 1.282。
--[ ] [Gauss 常数](https://en.wikipedia.org/wiki/Lemniscate_constant#Forms)
+- [x] $$\pi$$ 是圆周率，约为 3.14。
+- [ ] $$\phi$$ 是黄金分割比的比值，约为 1.618。
+- [ ] $$\mathrm i^{\mathrm i}=\mathrm e^{\mathrm i\ln\mathrm i}=\mathrm e^{\mathrm i\cdot\frac{\pi\mathrm i}{2}}=\mathrm e^{-\frac\pi2}$$，显然它小于 1，不用再算了。
+- [x] $$\mathrm e$$ 是自然对数的底，约为 2.718。
+- [ ] $$\gamma$$ 是欧拉常数，约为 0.577。
+- [x] $$\varpi$$ 是 [Lemniscate 常数](https://en.wikipedia.org/wiki/Lemniscate_constant)，约为 2.622。
+- [ ] $$\sqrt2$$ 约为 1.414。
+- [ ] $$\ln2$$ 约为 0.693。
+- [ ] $$\zeta(3)$$ 用到了黎曼 zeta 函数，它表示 $$\sum_{n=1}^\infty\frac1{n^3}$$，约为1.202。
+- [ ] $$\Gamma(1)$$ 用到了伽马函数，它表示 $$\int_0^\infty\mathrm e^{-t}\,\mathrm dt$$，等于 1。
+- [ ] $$\operatorname{li}(1)$$ 用到了对数积分函数，它表示 $$\int_0^1\frac{\mathrm dt}{\ln t}$$，这个结果为负无穷。
+- [ ] $$\operatorname{erf}(1)$$ 用到了误差函数，它表示 $$\frac1{\sqrt\pi}\int_{-1}^1\mathrm e^{-t^2}\mathrm dt$$，约为 0.843。
+- [ ] [Catalan 常数](https://en.wikipedia.org/wiki/Catalan%27s_constant)的值约为 0.916。
+- [ ] [Artin 常数](https://en.wikipedia.org/wiki/Artin%27s_conjecture_on_primitive_roots#Formulation)的值约为 0.374。
+- [ ] [Claisher 常数](https://en.wikipedia.org/wiki/Glaisher%E2%80%93Kinkelin_constant)的值约为 1.282。
+- [ ] [Gauss 常数](https://en.wikipedia.org/wiki/Lemniscate_constant#Forms)
 
 ## chordate
 
@@ -136,19 +136,19 @@ description: cpphusky.xyz/captcha
 
 这道题同样也没坑，属于只要花点时间查很快就能做出来的题。
 
--[x] Homo sapiens：人类
--[ ] Apis mellifera：西洋蜜蜂
--[x] Panthera leo：狮子
--[x] Canis lupus：狼
--[x] Equus ferus：野马
--[x] Gallus gallus：红原鸡
--[ ] Drosophila melanogaster：黑腹果蝇
--[ ] Octopus vulgaris：普通章鱼
--[ ] Lissachatina fulica：非洲大蜗牛
--[x] Salmo salar：大西洋鲑（三文鱼）
--[x] Bufo bufo：大蟾蜍
--[x] Chelonia mydas：绿海龟
--[x] Pavo cristatus：蓝孔雀
--[ ] Asterias rubens：普通海星
--[x] Balaenoptera msculus：蓝鲸
--[ ] Lumbricus terrestris：普通蚯蚓
+- [x] Homo sapiens：人类
+- [ ] Apis mellifera：西洋蜜蜂
+- [x] Panthera leo：狮子
+- [x] Canis lupus：狼
+- [x] Equus ferus：野马
+- [x] Gallus gallus：红原鸡
+- [ ] Drosophila melanogaster：黑腹果蝇
+- [ ] Octopus vulgaris：普通章鱼
+- [ ] Lissachatina fulica：非洲大蜗牛
+- [x] Salmo salar：大西洋鲑（三文鱼）
+- [x] Bufo bufo：大蟾蜍
+- [x] Chelonia mydas：绿海龟
+- [x] Pavo cristatus：蓝孔雀
+- [ ] Asterias rubens：普通海星
+- [x] Balaenoptera msculus：蓝鲸
+- [ ] Lumbricus terrestris：普通蚯蚓
