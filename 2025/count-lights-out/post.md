@@ -75,10 +75,10 @@ $$b_1+b_2+b_3+b_5=c_2$$
 
 同理，还有四个方程可列：
 
-$$b_2+b_3+b_6=c_3\\
-b_1+b_4+b_5=c_4\\
-b_2+b_4+b_5+b_6=c_5\\
-b_3+b_5+b_6=c_6$$
+$$b_2+b_3+b_6=c_3$$
+$$b_1+b_4+b_5=c_4$$
+$$b_2+b_4+b_5+b_6=c_5$$
+$$b_3+b_5+b_6=c_6$$
 
 这样一来我们就构造了一个六元方程组。方便起见，我们把它写成矩阵形式：
 
@@ -102,11 +102,11 @@ $$x_1\oplus x_2\oplus x_5=b_1$$
 
 同样道理，我们也可以列出剩下的五个式子：
 
-$$x_1\oplus x_2\oplus x_3\oplus x_5=b_2\\
-x_2\oplus x_3\oplus x_6=b_3\\
-x_1\oplus x_4\oplus x_5=b_4\\
-x_2\oplus x_4\oplus x_5\oplus x_6=b_5\\
-x_3\oplus x_5\oplus x_6=b_6$$
+$$x_1\oplus x_2\oplus x_3\oplus x_5=b_2$$
+$$x_2\oplus x_3\oplus x_6=b_3$$
+$$x_1\oplus x_4\oplus x_5=b_4$$
+$$x_2\oplus x_4\oplus x_5\oplus x_6=b_5$$
+$$x_3\oplus x_5\oplus x_6=b_6$$
 
 我们仍然把它写成矩阵形式：
 
