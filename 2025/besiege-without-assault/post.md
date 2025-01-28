@@ -1,5 +1,5 @@
 ---
-description: cpphusky.xyz/besiegewithoutassault
+description: cpphusky.xyz/game/besiegewithoutassault
 ---
 
 # BesiegeWithoutAssault
@@ -48,7 +48,7 @@ description: cpphusky.xyz/besiegewithoutassault
 
 如果奴隶的运动方向向外偏，那么**运动半径 $$r_2$$ 就会增大。又因为线速度不变，所以奴隶的角速度将会变小。这样一来，**$$\theta$$ 也会变小**。
 
-而奴隶速度向外偏，会使得运动速度在 $$d$$ 方向上的分量增大，拉开二者的距离，所以**$$d$$ 会变大**。
+而奴隶速度向外偏，会使得运动速度在 $$d$$ 方向上的分量增大，拉开二者的距离，所以** $$d$$ 会变大**。
 
 问题来了：$$\alpha$$ 和 $$r_1$$ 会如何变化？以下给出四种假说：
 
@@ -57,7 +57,7 @@ description: cpphusky.xyz/besiegewithoutassault
 - $$\alpha$$ 增大或不变，$$r_1$$ 增大。这种情况是可能的，不会产生任何矛盾。
 - $$\alpha$$ 减小，$$r_1$$ 增大。这种情况也是可能的，不会产生任何矛盾。
 
-$$\alpha$$ 会怎么变化，我们暂时不能下定论，但是**$$r_1$$ 增大是必然的**。而 $$r_1$$ 增大就意味着，**猛兽的运动方向也会外偏**。
+$$\alpha$$ 会怎么变化，我们暂时不能下定论，但是** $$r_1$$ 增大是必然的**。而 $$r_1$$ 增大就意味着，**猛兽的运动方向也会外偏**。
 
 同样的道理，我们可以得出，如果奴隶的运动方向内偏，那么猛兽的运动方向也将内偏。
 

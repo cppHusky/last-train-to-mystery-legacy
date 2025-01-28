@@ -113,11 +113,11 @@ x_1\oplus x_2\oplus x_5=b_1
 同样道理，我们也可以列出剩下的五个式子：
 
 ```math
-x_1\oplus x_2\oplus x_3\oplus x_5=b_2
-x_2\oplus x_3\oplus x_6=b_3
-x_1\oplus x_4\oplus x_5=b_4
-x_2\oplus x_4\oplus x_5\oplus x_6=b_5
-x_3\oplus x_5\oplus x_6=b_6
+x_1\oplus x_2\oplus x_3\oplus x_5=b_2\\
+x_2\oplus x_3\oplus x_6=b_3\\
+x_1\oplus x_4\oplus x_5=b_4\\
+x_2\oplus x_4\oplus x_5\oplus x_6=b_5\\
+x_3\oplus x_5\oplus x_6=b_6\\
 ```
 
 我们仍然把它写成矩阵形式：
@@ -128,7 +128,7 @@ x_3\oplus x_5\oplus x_6=b_6
 
 这里的系数矩阵和刚才一模一样，因为系数矩阵正是由这个图的规格决定的。
 
-接下来只要解出全部的 $x_k$，我们就知道该点哪些灯了。
+接下来只要解出全部的 $$x_k$$，我们就知道该点哪些灯了。
 
 ### 对 $$3\times2$$ 情形的推广
 
