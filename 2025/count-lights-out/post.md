@@ -136,7 +136,7 @@ x_3\oplus x_5\oplus x_6=b_6\\
 
 该矩阵是一个 36 阶方阵，这里不方便写，我就在这里提供一段用于生成此矩阵的 C++ 代码：
 
-```cpp
+```c++
 //这里N=M=6
 void gaussian::getcoef(bool **coefficient){
 	for(int i=0;i<N*M;i++)

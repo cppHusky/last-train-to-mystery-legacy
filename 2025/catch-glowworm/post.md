@@ -104,7 +104,7 @@ description: cpphusky.xyz/game/catchglowworm
 
 所以累积误差是多少呢？不超过 $$\frac{\sqrt5\Delta p}2$$。所以只要 $$\Delta p$$ 取得较小，我们就可以尽量避免出现很大的误差。
 
-不过，也**不是说 $$\Delta p$$ 就要取得越小越好。**本题的浮点数精度只有七位有效数字，换句话说，即便是 $$\Delta q$$ 在数值上有 $$10^{-12}$$ 的差异，经过四舍五入之后都有可能放大到 $$10^{-6}$$ 大小。如果你用 $$10^{-6}$$ 量级的 $$\Delta p$$ 来测定结果的话，那么这个结果的准确度反而要大打折扣了。
+不过，**也不是说 $$\Delta p$$ 就要取得越小越好**。本题的浮点数精度只有七位有效数字，换句话说，即便是 $$\Delta q$$ 在数值上有 $$10^{-12}$$ 的差异，经过四舍五入之后都有可能放大到 $$10^{-6}$$ 大小。如果你用 $$10^{-6}$$ 量级的 $$\Delta p$$ 来测定结果的话，那么这个结果的准确度反而要大打折扣了。
 
 #### 示例代码
 
@@ -114,14 +114,14 @@ description: cpphusky.xyz/game/catchglowworm
 import sys
 rate=.5
 delta=.001
-d0=float(sys.argv[1])
-d1=float(sys.argv[2])
-d2=float(sys.argv[3])
-d3=float(sys.argv[4])
+d0=float(sys.argv[1])//初始状态下的距离
+d1=float(sys.argv[2])//向x轴方向移动delta后的距离
+d2=float(sys.argv[3])//向y轴方向移动delta后的距离
+d3=float(sys.argv[4])//向z轴方向移动delta后的距离
 x=2*d3*((d0+rate*delta)**2-delta**2-d1**2)/(2*delta*d1)+delta
 y=2*d3*((d1+rate*delta)**2-delta**2-d2**2)/(2*delta*d2)+delta
 z=2*d3*((d2+rate*delta)**2-delta**2-d3**2)/(2*delta*d3)+delta
-print(f'{x} {y} {z}')
+print(f'{x} {y} {z}')//前往此处即可抓到萤火虫
 ```
 
 #### 算法简化
@@ -136,6 +136,7 @@ print(f'{x} {y} {z}')
 \begin{cases}
 x^2+r^2=d_1^2\\
 (x+\Delta p)^2+r^2=\left(d_0+\frac{\Delta p}2\right)^2
+\end{cases}
 ```
 
 便可以解出 $$x=\frac{\left(d_0+\frac{\Delta p}2\right)^2-\Delta p^2-d_1^2}{2\Delta p}$$。这就是萤火虫与你在 $$x$$ 轴上的相对距离。
