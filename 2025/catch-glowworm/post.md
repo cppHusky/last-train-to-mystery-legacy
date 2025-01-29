@@ -118,9 +118,12 @@ d0=float(sys.argv[1])//初始状态下的距离
 d1=float(sys.argv[2])//向x轴方向移动delta后的距离
 d2=float(sys.argv[3])//向y轴方向移动delta后的距离
 d3=float(sys.argv[4])//向z轴方向移动delta后的距离
-x=2*d3*((d0+rate*delta)**2-delta**2-d1**2)/(2*delta*d1)+delta
-y=2*d3*((d1+rate*delta)**2-delta**2-d2**2)/(2*delta*d2)+delta
-z=2*d3*((d2+rate*delta)**2-delta**2-d3**2)/(2*delta*d3)+delta
+dx=d3*((d0+rate*delta)**2-delta**2-d1**2)/(2*delta*d1)//相对距离在x方向上的投影
+dy=d3*((d1+rate*delta)**2-delta**2-d2**2)/(2*delta*d2)//相对距离在y方向上的投影
+dz=d3*((d2+rate*delta)**2-delta**2-d3**2)/(2*delta*d3)//相对距离在z方向上的投影
+x=2*dx+delta
+y=2*dy+delta
+z=2*dz+delta
 print(f'{x} {y} {z}')//前往此处即可抓到萤火虫
 ```
 
