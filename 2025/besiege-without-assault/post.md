@@ -16,6 +16,8 @@ description: cpphusky.xyz/game/besiegewithoutassault
 
 ## 解析
 
+[视频演示](https://www.bilibili.com/video/BV13vFTeAEzH?spm_id_from=333.788.videopod.episodes&vd_source=03c586261e9a3e1b7d76e7d62b7b0064
+
 这个问题乍看起来还挺难想的，因为范围不大，而且双方的速度相差无几，所以一不小心就会让敌军逃出包围圈，追都追不上。
 
 一开始我把这题的速度比设计成 $$1:0.5$$，但是测题时发现太简单，乱走都能过；所以经过反复测试，最后我选定了 $$1:0.95$$ 的速度，这样就不能乱走了，必须仔细思考对策才行。

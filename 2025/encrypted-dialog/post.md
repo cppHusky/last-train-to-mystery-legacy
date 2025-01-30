@@ -14,6 +14,8 @@ description: cpphusky.xyz/game/encrypteddialog
 
 ## 解析
 
+[视频演示](https://www.bilibili.com/video/BV13vFTeAEzH?spm_id_from=333.788.videopod.episodes&vd_source=03c586261e9a3e1b7d76e7d62b7b0064&p=2)
+
 游戏时发现有人说直接送一个引号套着的字符串就可以让它原模原样输出，我就试了一下。没想到第一次就成了。
 
 ![](./assets/attempt.png)

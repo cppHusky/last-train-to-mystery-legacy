@@ -22,6 +22,8 @@ description: cpphusky.xyz/game/countlightsout
 
 ## 试探解
 
+[视频演示](https://www.bilibili.com/video/BV13vFTeAEzH?spm_id_from=333.788.videopod.episodes&vd_source=03c586261e9a3e1b7d76e7d62b7b0064&p=3)
+
 绝大部分玩家初次做题时都会寻找试探解。一般来说大家有两种不同的策略：
 
 - 一边分析灯的状态，一边灭灯，同步进行。
