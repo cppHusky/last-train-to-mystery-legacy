@@ -33,3 +33,4 @@
 * [EncryptedDialog](2025/encrypted-dialog/post.md)
 * [CatchGlowworm](2025/catch-glowworm/post.md)
 * [DigitalCircuit](2025/digital-circuit/post.md)
+* [WhatHappened](2025/what-happened/post.md)
