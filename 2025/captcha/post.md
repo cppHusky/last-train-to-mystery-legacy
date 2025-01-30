@@ -124,7 +124,7 @@ description: cpphusky.xyz/captcha
 - [ ] [Catalan 常数](https://en.wikipedia.org/wiki/Catalan%27s_constant)的值约为 0.916。
 - [ ] [Artin 常数](https://en.wikipedia.org/wiki/Artin%27s_conjecture_on_primitive_roots#Formulation)的值约为 0.374。
 - [ ] [Claisher 常数](https://en.wikipedia.org/wiki/Glaisher%E2%80%93Kinkelin_constant)的值约为 1.282。
-- [ ] [Gauss 常数](https://en.wikipedia.org/wiki/Lemniscate_constant#Forms)
+- [ ] [Gauss 常数](https://en.wikipedia.org/wiki/Lemniscate_constant#Forms)的值约为 0.835。
 
 ## chordate
 

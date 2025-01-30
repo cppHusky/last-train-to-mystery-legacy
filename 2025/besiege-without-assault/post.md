@@ -16,7 +16,7 @@ description: cpphusky.xyz/game/besiegewithoutassault
 
 ## 解析
 
-[视频演示](https://www.bilibili.com/video/BV13vFTeAEzH?spm_id_from=333.788.videopod.episodes&vd_source=03c586261e9a3e1b7d76e7d62b7b0064
+[视频演示](https://www.bilibili.com/video/BV13vFTeAEzH?spm_id_from=333.788.videopod.episodes&vd_source=03c586261e9a3e1b7d76e7d62b7b0064)
 
 这个问题乍看起来还挺难想的，因为范围不大，而且双方的速度相差无几，所以一不小心就会让敌军逃出包围圈，追都追不上。
 
