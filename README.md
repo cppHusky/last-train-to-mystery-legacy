@@ -6,6 +6,8 @@ description: 「解谜末班车」自2023年开始举办，每年一次，定在
 
 以下是历年解谜末班车的解答，仅供参考。
 
+该页面相关内容目前已迁移至 [GitHub Page](https://cpphusky.github.io/last-train-to-mystery/)，该页面后续将关停。
+
 <table data-view="cards">
 <thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead>
 <tbody>
